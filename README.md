@@ -63,4 +63,6 @@ The dashboard provides a clear overview of call center performance, identifying 
 ## Conclusion
 
 This Power BI dashboard provides valuable insights into call center operations, helping improve efficiency and customer satisfaction through detailed data analysis and visualization.
+![CallCenter](https://github.com/user-attachments/assets/0af9113c-b062-4356-b785-c862f005a637)
+
 
